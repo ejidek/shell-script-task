@@ -10,7 +10,7 @@
 # Number of arguments needed
  expected_args=2
 
-# Assign args to variables
+# Assign args to variables pass in
  USERNAME=$1
  DIR_PATH=$2
 

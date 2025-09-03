@@ -7,7 +7,7 @@
 # About: A script that take 2 arguments: username and backup directory
 # #########################
 
-# Number of arguments needed
+# Number of arguments needed or expected
  expected_args=2
 
 # Assign args to variables pass in

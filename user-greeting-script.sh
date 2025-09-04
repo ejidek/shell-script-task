@@ -2,7 +2,7 @@
 
 #########################
 # Author: Abdulhamid
-# Date: 2nd sep, 25
+# Date: 2nd Sep, 25
 # Version: v1
 # 
 # About: This Script expects exactly one argument
